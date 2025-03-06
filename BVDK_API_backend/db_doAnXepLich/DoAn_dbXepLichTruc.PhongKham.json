@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b01"
+  },
+  "ID_phongKham": "pkNoi_01",
+  "tenPhong": "Phòng khám bệnh lý nội khoa",
+  "diaChi": "Tầng 3, Khu A",
+  "soDienThoai": "0901234567",
+  "ID_chuyenKhoa": "noi_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b02"
+  },
+  "ID_phongKham": "pkNoi_02",
+  "tenPhong": "Phòng khám Nội khoa và chăm sóc sức khỏe",
+  "diaChi": "Tầng 3, Khu A",
+  "soDienThoai": "0901234568",
+  "ID_chuyenKhoa": "noi_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b03"
+  },
+  "ID_phongKham": "pkNoi_03",
+  "tenPhong": "Phòng quản lý bệnh nhân nội trú",
+  "diaChi": "Tầng 3, Khu A",
+  "soDienThoai": "0901234575",
+  "ID_chuyenKhoa": "noi_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b04"
+  },
+  "ID_phongKham": "pkNgoai_01",
+  "tenPhong": "Phòng phẫu thuật",
+  "diaChi": "Tầng 2, Khu A",
+  "soDienThoai": "0901234569",
+  "ID_chuyenKhoa": "ngoai_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b05"
+  },
+  "ID_phongKham": "pkNgoai_02",
+  "tenPhong": "Phòng tiền phẫu và hậu phẫu",
+  "diaChi": "Tầng 2, Khu A",
+  "soDienThoai": "0901234570",
+  "ID_chuyenKhoa": "ngoai_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b06"
+  },
+  "ID_phongKham": "pkNgoai_03",
+  "tenPhong": "Phòng khám ngoại khoa tổng quát",
+  "diaChi": "Tầng 2, Khu A",
+  "soDienThoai": "0901234576",
+  "ID_chuyenKhoa": "ngoai_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b07"
+  },
+  "ID_phongKham": "pkTim_01",
+  "tenPhong": "Phòng khám tim mạch và huyết áp",
+  "diaChi": "Tầng 1, Khu A",
+  "soDienThoai": "0901234571",
+  "ID_chuyenKhoa": "tim_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b08"
+  },
+  "ID_phongKham": "pkTim_02",
+  "tenPhong": "Phòng Khám chuẩn đoán và điều trị tim mạch",
+  "diaChi": "Tầng 1, Khu A",
+  "soDienThoai": "0901234572",
+  "ID_chuyenKhoa": "tim_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b09"
+  },
+  "ID_phongKham": "pkCC_01",
+  "tenPhong": "Phòng cấp cứu hồi sức tích cực",
+  "diaChi": "Tầng 1, Khu B",
+  "soDienThoai": "0901234573",
+  "ID_chuyenKhoa": "capCuu_01"
+},
+{
+  "_id": {
+    "$oid": "671b4acf14bb399470058b0a"
+  },
+  "ID_phongKham": "pkCC_02",
+  "tenPhong": "Phòng xử lý vết thương và chấn thương khẩn cấp",
+  "diaChi": "Tầng 1, Khu B",
+  "soDienThoai": "0901234574",
+  "ID_chuyenKhoa": "capCuu_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbf5"
+  },
+  "ID_phongKham": "pkNoi_04",
+  "tenPhong": "Phòng khám hô hấp",
+  "diaChi": "Tầng 3, Khu B",
+  "soDienThoai": "0902345678",
+  "ID_chuyenKhoa": "noi_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbf6"
+  },
+  "ID_phongKham": "pkNoi_05",
+  "tenPhong": "Phòng khám tiêu hóa",
+  "diaChi": "Tầng 3, Khu B",
+  "soDienThoai": "0903456789",
+  "ID_chuyenKhoa": "noi_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbf7"
+  },
+  "ID_phongKham": "pkNgoai_04",
+  "tenPhong": "Phòng khám phẫu thuật chỉnh hình",
+  "diaChi": "Tầng 2, Khu B",
+  "soDienThoai": "0904567890",
+  "ID_chuyenKhoa": "ngoai_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbf8"
+  },
+  "ID_phongKham": "pkNgoai_05",
+  "tenPhong": "Phòng khám phẫu thuật thần kinh",
+  "diaChi": "Tầng 2, Khu B",
+  "soDienThoai": "0905678901",
+  "ID_chuyenKhoa": "ngoai_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbf9"
+  },
+  "ID_phongKham": "pkTim_03",
+  "tenPhong": "Phòng khám động mạch vành",
+  "diaChi": "Tầng 1, Khu C",
+  "soDienThoai": "0906789012",
+  "ID_chuyenKhoa": "tim_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbfa"
+  },
+  "ID_phongKham": "pkTim_04",
+  "tenPhong": "Phòng khám bệnh lý mạch máu",
+  "diaChi": "Tầng 1, Khu C",
+  "soDienThoai": "0907890123",
+  "ID_chuyenKhoa": "tim_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbfb"
+  },
+  "ID_phongKham": "pkTim_05",
+  "tenPhong": "Phòng khám suy tim",
+  "diaChi": "Tầng 1, Khu C",
+  "soDienThoai": "0908901234",
+  "ID_chuyenKhoa": "tim_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbfc"
+  },
+  "ID_phongKham": "pkCC_03",
+  "tenPhong": "Phòng cấp cứu",
+  "diaChi": "Tầng 1, Khu D",
+  "soDienThoai": "0909012345",
+  "ID_chuyenKhoa": "capCuu_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbfd"
+  },
+  "ID_phongKham": "pkCC_04",
+  "tenPhong": "Phòng cấp cứu tai nạn giao thông",
+  "diaChi": "Tầng 1, Khu D",
+  "soDienThoai": "0909123456",
+  "ID_chuyenKhoa": "capCuu_01"
+},
+{
+  "_id": {
+    "$oid": "673345c52c85674bd177cbfe"
+  },
+  "ID_phongKham": "pCC_05",
+  "tenPhong": "Phòng cấp cứu trẻ em",
+  "diaChi": "Tầng 1, Khu D",
+  "soDienThoai": "0909234567",
+  "ID_chuyenKhoa": "capCuu_01"
+}]

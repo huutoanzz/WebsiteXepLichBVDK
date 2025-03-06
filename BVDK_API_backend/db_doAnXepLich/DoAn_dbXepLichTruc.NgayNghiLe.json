@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "672b7cfaffb47314c0796d39"
+  },
+  "ID_ngayNghi": "ngayLe_01",
+  "tenNgayNghi": "Ngày Lễ Được Nghỉ",
+  "ngayTrongNam": [
+    "01-01",
+    "02-03",
+    "04-30",
+    "05-01",
+    "09-02"
+  ]
+}]

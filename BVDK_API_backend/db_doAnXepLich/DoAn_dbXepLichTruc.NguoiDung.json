@@ -1,0 +1,318 @@
+[{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c0"
+  },
+  "ID_nguoiDung": "nd_admin",
+  "tenDangNhap": "admin",
+  "matKhau": "admin@123",
+  "vaiTro": "admin"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c1"
+  },
+  "ID_nguoiDung": "nd_staff",
+  "tenDangNhap": "staff_user",
+  "matKhau": "staff@123",
+  "vaiTro": "staff"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c2"
+  },
+  "ID_nguoiDung": "nd_01",
+  "tenDangNhap": "doctor_01",
+  "matKhau": "doc@01",
+  "ID_bacSi": "bs_01",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c3"
+  },
+  "ID_nguoiDung": "nd_02",
+  "tenDangNhap": "doctor_02",
+  "matKhau": "doc@02",
+  "ID_bacSi": "bs_02",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c4"
+  },
+  "ID_nguoiDung": "nd_03",
+  "tenDangNhap": "doctor_03",
+  "matKhau": "doc@03",
+  "ID_bacSi": "bs_03",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c5"
+  },
+  "ID_nguoiDung": "nd_04",
+  "tenDangNhap": "doctor_04",
+  "matKhau": "doc@04",
+  "ID_bacSi": "bs_04",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c6"
+  },
+  "ID_nguoiDung": "nd_05",
+  "tenDangNhap": "doctor_05",
+  "matKhau": "doc@05",
+  "ID_bacSi": "bs_05",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c7"
+  },
+  "ID_nguoiDung": "nd_06",
+  "tenDangNhap": "doctor_06",
+  "matKhau": "doc@06",
+  "ID_bacSi": "bs_06",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c8"
+  },
+  "ID_nguoiDung": "nd_07",
+  "tenDangNhap": "doctor_07",
+  "matKhau": "doc@07",
+  "ID_bacSi": "bs_07",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56c9"
+  },
+  "ID_nguoiDung": "nd_08",
+  "tenDangNhap": "doctor_08",
+  "matKhau": "doc@08",
+  "ID_bacSi": "bs_08",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56ca"
+  },
+  "ID_nguoiDung": "nd_09",
+  "tenDangNhap": "doctor_09",
+  "matKhau": "doc@09",
+  "ID_bacSi": "bs_09",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56cb"
+  },
+  "ID_nguoiDung": "nd_10",
+  "tenDangNhap": "doctor_10",
+  "matKhau": "doc@10",
+  "ID_bacSi": "bs_10",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56cc"
+  },
+  "ID_nguoiDung": "nd_11",
+  "tenDangNhap": "doctor_11",
+  "matKhau": "doc@11",
+  "ID_bacSi": "bs_11",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56cd"
+  },
+  "ID_nguoiDung": "nd_12",
+  "tenDangNhap": "doctor_12",
+  "matKhau": "doc@12",
+  "ID_bacSi": "bs_12",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56ce"
+  },
+  "ID_nguoiDung": "nd_13",
+  "tenDangNhap": "doctor_13",
+  "matKhau": "doc@13",
+  "ID_bacSi": "bs_13",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56cf"
+  },
+  "ID_nguoiDung": "nd_14",
+  "tenDangNhap": "doctor_14",
+  "matKhau": "doc@14",
+  "ID_bacSi": "bs_14",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d0"
+  },
+  "ID_nguoiDung": "nd_15",
+  "tenDangNhap": "doctor_15",
+  "matKhau": "doc@15",
+  "ID_bacSi": "bs_15",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d1"
+  },
+  "ID_nguoiDung": "nd_16",
+  "tenDangNhap": "doctor_16",
+  "matKhau": "doc@16",
+  "ID_bacSi": "bs_16",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d2"
+  },
+  "ID_nguoiDung": "nd_17",
+  "tenDangNhap": "doctor_17",
+  "matKhau": "doc@17",
+  "ID_bacSi": "bs_17",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d3"
+  },
+  "ID_nguoiDung": "nd_18",
+  "tenDangNhap": "doctor_18",
+  "matKhau": "doc@18",
+  "ID_bacSi": "bs_18",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d4"
+  },
+  "ID_nguoiDung": "nd_19",
+  "tenDangNhap": "doctor_19",
+  "matKhau": "doc@19",
+  "ID_bacSi": "bs_19",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d5"
+  },
+  "ID_nguoiDung": "nd_20",
+  "tenDangNhap": "doctor_20",
+  "matKhau": "doc@20",
+  "ID_bacSi": "bs_20",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d6"
+  },
+  "ID_nguoiDung": "nd_21",
+  "tenDangNhap": "doctor_21",
+  "matKhau": "doc@21",
+  "ID_bacSi": "bs_21",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d7"
+  },
+  "ID_nguoiDung": "nd_22",
+  "tenDangNhap": "doctor_22",
+  "matKhau": "doc@22",
+  "ID_bacSi": "bs_22",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d8"
+  },
+  "ID_nguoiDung": "nd_23",
+  "tenDangNhap": "doctor_23",
+  "matKhau": "doc@23",
+  "ID_bacSi": "bs_23",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56d9"
+  },
+  "ID_nguoiDung": "nd_24",
+  "tenDangNhap": "doctor_24",
+  "matKhau": "doc@24",
+  "ID_bacSi": "bs_24",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56da"
+  },
+  "ID_nguoiDung": "nd_25",
+  "tenDangNhap": "doctor_25",
+  "matKhau": "doc@25",
+  "ID_bacSi": "bs_25",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56db"
+  },
+  "ID_nguoiDung": "nd_26",
+  "tenDangNhap": "doctor_26",
+  "matKhau": "doc@26",
+  "ID_bacSi": "bs_26",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56dc"
+  },
+  "ID_nguoiDung": "nd_27",
+  "tenDangNhap": "doctor_27",
+  "matKhau": "doc@27",
+  "ID_bacSi": "bs_27",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56dd"
+  },
+  "ID_nguoiDung": "nd_28",
+  "tenDangNhap": "doctor_28",
+  "matKhau": "doc@28",
+  "ID_bacSi": "bs_28",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56de"
+  },
+  "ID_nguoiDung": "nd_29",
+  "tenDangNhap": "doctor_29",
+  "matKhau": "doc@29",
+  "ID_bacSi": "bs_29",
+  "vaiTro": "doctors"
+},
+{
+  "_id": {
+    "$oid": "6727c2ec781166c2ee5c56df"
+  },
+  "ID_nguoiDung": "nd_30",
+  "tenDangNhap": "doctor_30",
+  "matKhau": "doc@30",
+  "ID_bacSi": "bs_30",
+  "vaiTro": "doctors"
+}]

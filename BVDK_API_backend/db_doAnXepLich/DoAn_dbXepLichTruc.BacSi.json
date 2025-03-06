@@ -1,0 +1,960 @@
+[{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec65b"
+  },
+  "ID_bacSi": "bs_01",
+  "hoTen": "Ngô Minh Hùng",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345678",
+  "email": "hung.ngo@example.com",
+  "diaChi": "123 Lê Lợi, HCM",
+  "ghiChu": "Chuyên điều trị tiểu đường và các bệnh về gan",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec65c"
+  },
+  "ID_bacSi": "bs_02",
+  "hoTen": "Nguyễn Văn An",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345679",
+  "email": "a.nguyen@example.com",
+  "diaChi": "456 Trần Hưng Đạo, HCM",
+  "ghiChu": "Chuyên điều trị dạ dày",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec65d"
+  },
+  "ID_bacSi": "bs_03",
+  "hoTen": "Trần Thị Bích",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345680",
+  "email": "b.tran@example.com",
+  "diaChi": "789 Nguyễn Thị Minh Khai, HCM",
+  "ghiChu": "Chuyên điều trị táo bón",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec65e"
+  },
+  "ID_bacSi": "bs_04",
+  "hoTen": "Lê Văn Công",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345681",
+  "email": "c.le@example.com",
+  "diaChi": "101 Điện Biên Phủ, HCM",
+  "ghiChu": "Chuyên điều trị viêm ruột",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec65f"
+  },
+  "ID_bacSi": "bs_05",
+  "hoTen": "Phạm Thị Danh",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345682",
+  "email": "d.pham@example.com",
+  "diaChi": "202 Phan Đình Phùng, HCM",
+  "ghiChu": "Chuyên điều trị viêm gan",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec660"
+  },
+  "ID_bacSi": "bs_06",
+  "hoTen": "Nguyễn Văn Em",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345683",
+  "email": "e.nguyen@example.com",
+  "diaChi": "303 Bạch Đằng, HCM",
+  "ghiChu": "Chuyên điều trị hội chứng ruột kích thích",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec661"
+  },
+  "ID_bacSi": "bs_07",
+  "hoTen": "Trần Thị Tươi",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345684",
+  "email": "f.tran@example.com",
+  "diaChi": "404 Lê Quý Đôn, HCM",
+  "ghiChu": "Chuyên điều trị bệnh lý gan mật",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec662"
+  },
+  "ID_bacSi": "bs_08",
+  "hoTen": "Lê Văn Giờ",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345685",
+  "email": "g.le@example.com",
+  "diaChi": "505 Nguyễn Văn Cừ, HCM",
+  "ghiChu": "Chuyên điều trị ung thư tiêu hóa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec663"
+  },
+  "ID_bacSi": "bs_09",
+  "hoTen": "Phạm Thị Hồng",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345686",
+  "email": "h.pham@example.com",
+  "diaChi": "606 Hòa Bình, HCM",
+  "ghiChu": "Chuyên điều trị bệnh Crohn",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec664"
+  },
+  "ID_bacSi": "bs_10",
+  "hoTen": "Nguyễn Văn Trí",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345687",
+  "email": "i.nguyen@example.com",
+  "diaChi": "707 Trường Chinh, HCM",
+  "ghiChu": "Chuyên điều trị bệnh gan nhiễm mỡ",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec665"
+  },
+  "ID_bacSi": "bs_11",
+  "hoTen": "Trần Thị Vũ",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345688",
+  "email": "j.tran@example.com",
+  "diaChi": "808 Nguyễn Huệ, HCM",
+  "ghiChu": "Chuyên điều trị loét dạ dày",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec666"
+  },
+  "ID_bacSi": "bs_12",
+  "hoTen": "Lê Văn Khánh",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345689",
+  "email": "k.le@example.com",
+  "diaChi": "909 Điện Biên Phủ, HCM",
+  "ghiChu": "Chuyên điều trị tiêu chảy",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec667"
+  },
+  "ID_bacSi": "bs_13",
+  "hoTen": "Phạm Thị Lanh",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345690",
+  "email": "l.pham@example.com",
+  "diaChi": "1010 Trần Quốc Toản, HCM",
+  "ghiChu": "Chuyên điều trị bệnh lý dạ dày",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750984187fc2ee5ae4ec668"
+  },
+  "ID_bacSi": "bs_14",
+  "hoTen": "Nguyễn Văn Mười",
+  "ID_chuyenKhoa": "noi_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345691",
+  "email": "m.nguyen@example.com",
+  "diaChi": "1111 Nguyễn Thái Học, HCM",
+  "ghiChu": "Chuyên điều trị bệnh lý đường ruột",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec66a"
+  },
+  "ID_bacSi": "bs_16",
+  "hoTen": "Nguyễn Văn Ông",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345693",
+  "email": "o.nguyen@example.com",
+  "diaChi": "1313 Nguyễn Trãi, HCM",
+  "ghiChu": "Chuyên phẫu thuật tổng quát",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec66b"
+  },
+  "ID_bacSi": "bs_17",
+  "hoTen": "Trần Thị Phong",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345694",
+  "email": "p.tran@example.com",
+  "diaChi": "1414 Lê Thánh Tôn, HCM",
+  "ghiChu": "Chuyên phẫu thuật nội soi",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec66c"
+  },
+  "ID_bacSi": "bs_18",
+  "hoTen": "Lê Văn Qưới",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345695",
+  "email": "q.le@example.com",
+  "diaChi": "1515 Bến Thành, HCM",
+  "ghiChu": "Chuyên phẫu thuật thần kinh",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec66d"
+  },
+  "ID_bacSi": "bs_19",
+  "hoTen": "Phạm Thị Bưởi",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345696",
+  "email": "r.pham@example.com",
+  "diaChi": "1616 Trần Đình Xu, HCM",
+  "ghiChu": "Chuyên phẫu thuật tim",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec66e"
+  },
+  "ID_bacSi": "bs_20",
+  "hoTen": "Nguyễn Văn Sang",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345697",
+  "email": "s.nguyen@example.com",
+  "diaChi": "1717 Nguyễn Hữu Cảnh, HCM",
+  "ghiChu": "Chuyên phẫu thuật ung thư",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec66f"
+  },
+  "ID_bacSi": "bs_21",
+  "hoTen": "Trần Thị Tâm",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345698",
+  "email": "t.tran@example.com",
+  "diaChi": "1818 Lê Văn Sỹ, HCM",
+  "ghiChu": "Chuyên phẫu thuật nhi",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec670"
+  },
+  "ID_bacSi": "bs_22",
+  "hoTen": "Lê Văn Dũng",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345699",
+  "email": "u.le@example.com",
+  "diaChi": "1919 Nguyễn Thái Bình, HCM",
+  "ghiChu": "Chuyên phẫu thuật chấn thương",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec671"
+  },
+  "ID_bacSi": "bs_23",
+  "hoTen": "Phạm Thị Vân",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345700",
+  "email": "v.pham@example.com",
+  "diaChi": "2020 Lê Duẩn, HCM",
+  "ghiChu": "Chuyên phẫu thuật thẩm mỹ",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec672"
+  },
+  "ID_bacSi": "bs_24",
+  "hoTen": "Nguyễn Văn Mạnh",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345701",
+  "email": "w.nguyen@example.com",
+  "diaChi": "2121 Trần Hưng Đạo, HCM",
+  "ghiChu": "Chuyên phẫu thuật tiêu hóa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec673"
+  },
+  "ID_bacSi": "bs_25",
+  "hoTen": "Trần Thị Xương",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345702",
+  "email": "x.tran@example.com",
+  "diaChi": "2222 Lê Quý Đôn, HCM",
+  "ghiChu": "Chuyên phẫu thuật lồng ngực",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec674"
+  },
+  "ID_bacSi": "bs_26",
+  "hoTen": "Lê Văn Yên",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345703",
+  "email": "y.le@example.com",
+  "diaChi": "2323 Điện Biên Phủ, HCM",
+  "ghiChu": "Chuyên phẫu thuật xương",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec675"
+  },
+  "ID_bacSi": "bs_27",
+  "hoTen": "Phạm Thị Phương",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345704",
+  "email": "z.pham@example.com",
+  "diaChi": "2424 Nguyễn Văn Cừ, HCM",
+  "ghiChu": "Chuyên phẫu thuật mắt",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec676"
+  },
+  "ID_bacSi": "bs_28",
+  "hoTen": "Nguyễn Văn Anh",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345705",
+  "email": "aa.nguyen@example.com",
+  "diaChi": "2525 Bạch Đằng, HCM",
+  "ghiChu": "Chuyên phẫu thuật tai mũi họng",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "675098bd87fc2ee5ae4ec678"
+  },
+  "ID_bacSi": "bs_30",
+  "hoTen": "Lê Văn Cường",
+  "ID_chuyenKhoa": "ngoai_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345707",
+  "email": "ac.le@example.com",
+  "diaChi": "2727 Nguyễn Thị Minh Khai, HCM",
+  "ghiChu": "Chuyên phẫu thuật thận",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec679"
+  },
+  "ID_bacSi": "bs_31",
+  "hoTen": "Nguyễn Văn Dũng",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345708",
+  "email": "ad.nguyen@example.com",
+  "diaChi": "2828 Lê Lợi, HCM",
+  "ghiChu": "Chuyên khoa tim mạch",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec67a"
+  },
+  "ID_bacSi": "bs_32",
+  "hoTen": "Trần Thị Vân Anh",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345709",
+  "email": "ae.tran@example.com",
+  "diaChi": "2929 Trần Văn Đang, HCM",
+  "ghiChu": "Chuyên phẫu thuật tim",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec67b"
+  },
+  "ID_bacSi": "bs_33",
+  "hoTen": "Lê Văn Định",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345710",
+  "email": "af.le@example.com",
+  "diaChi": "3030 Huỳnh Thúc Kháng, HCM",
+  "ghiChu": "Chuyên điều trị bệnh tim bẩm sinh",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec67c"
+  },
+  "ID_bacSi": "bs_34",
+  "hoTen": "Phạm Thị Giang",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345711",
+  "email": "ag.pham@example.com",
+  "diaChi": "3131 Nguyễn Trãi, HCM",
+  "ghiChu": "Chuyên điều trị loạn nhịp tim",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec67d"
+  },
+  "ID_bacSi": "bs_35",
+  "hoTen": "Nguyễn Văn Hồng",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345712",
+  "email": "ah.nguyen@example.com",
+  "diaChi": "3232 Điện Biên Phủ, HCM",
+  "ghiChu": "Chuyên điều trị tăng huyết áp",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec67e"
+  },
+  "ID_bacSi": "bs_36",
+  "hoTen": "Trần Thị Minh Anh",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345713",
+  "email": "ai.tran@example.com",
+  "diaChi": "3333 Lê Quý Đôn, HCM",
+  "ghiChu": "Chuyên điều trị bệnh mạch vành",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec67f"
+  },
+  "ID_bacSi": "bs_37",
+  "hoTen": "Lê Văn Minh Tiến",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345714",
+  "email": "aj.le@example.com",
+  "diaChi": "3434 Nguyễn Văn Cừ, HCM",
+  "ghiChu": "Chuyên điều trị suy tim",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec680"
+  },
+  "ID_bacSi": "bs_38",
+  "hoTen": "Phạm Thị Kiệt",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345715",
+  "email": "ak.pham@example.com",
+  "diaChi": "3535 Trần Hưng Đạo, HCM",
+  "ghiChu": "Chuyên điều trị bệnh động mạch ngoại biên",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec681"
+  },
+  "ID_bacSi": "bs_39",
+  "hoTen": "Nguyễn Văn Lộc",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345716",
+  "email": "al.nguyen@example.com",
+  "diaChi": "3636 Bạch Đằng, HCM",
+  "ghiChu": "Chuyên điều trị rối loạn lipid máu",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec682"
+  },
+  "ID_bacSi": "bs_40",
+  "hoTen": "Trần Thị Mười",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345717",
+  "email": "am.tran@example.com",
+  "diaChi": "3737 Lê Văn Sỹ, HCM",
+  "ghiChu": "Chuyên điều trị đau thắt ngực",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec683"
+  },
+  "ID_bacSi": "bs_41",
+  "hoTen": "Lê Văn Na",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345718",
+  "email": "an.le@example.com",
+  "diaChi": "3838 Nguyễn Huệ, HCM",
+  "ghiChu": "Chuyên điều trị bệnh van tim",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec684"
+  },
+  "ID_bacSi": "bs_42",
+  "hoTen": "Phạm Thị Lý",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345719",
+  "email": "ao.pham@example.com",
+  "diaChi": "3939 Trường Chinh, HCM",
+  "ghiChu": "Chuyên điều trị bệnh lý tim mạch",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec685"
+  },
+  "ID_bacSi": "bs_43",
+  "hoTen": "Nguyễn Văn Kiệt",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345720",
+  "email": "ap.nguyen@example.com",
+  "diaChi": "4040 Lê Thánh Tôn, HCM",
+  "ghiChu": "Chuyên điều trị bệnh lý mạch máu",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750990587fc2ee5ae4ec686"
+  },
+  "ID_bacSi": "bs_44",
+  "hoTen": "Trần Thị Lanh",
+  "ID_chuyenKhoa": "tim_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345721",
+  "email": "aq.tran@example.com",
+  "diaChi": "4141 Nguyễn Thái Bình, HCM",
+  "ghiChu": "Chuyên điều trị bệnh lý huyết áp",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec688"
+  },
+  "ID_bacSi": "bs_46",
+  "hoTen": "Nguyễn Văn Sáng",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345723",
+  "email": "as.nguyen@example.com",
+  "diaChi": "4343 Lê Duẩn, HCM",
+  "ghiChu": "Chuyên cấp cứu tổng quát",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec689"
+  },
+  "ID_bacSi": "bs_47",
+  "hoTen": "Trần Thị Anh Thư",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345724",
+  "email": "at.tran@example.com",
+  "diaChi": "4444 Nguyễn Trãi, HCM",
+  "ghiChu": "Chuyên cấp cứu tim mạch",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec68a"
+  },
+  "ID_bacSi": "bs_48",
+  "hoTen": "Lê Văn Giàu",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345725",
+  "email": "au.le@example.com",
+  "diaChi": "4545 Bạch Đằng, HCM",
+  "ghiChu": "Chuyên cấp cứu thần kinh",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec68b"
+  },
+  "ID_bacSi": "bs_49",
+  "hoTen": "Phạm Thị Tiên",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345726",
+  "email": "av.pham@example.com",
+  "diaChi": "4646 Lê Thánh Tôn, HCM",
+  "ghiChu": "Chuyên cấp cứu chấn thương",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec68c"
+  },
+  "ID_bacSi": "bs_50",
+  "hoTen": "Nguyễn Văn Hồng",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345727",
+  "email": "aw.nguyen@example.com",
+  "diaChi": "4747 Điện Biên Phủ, HCM",
+  "ghiChu": "Chuyên cấp cứu hô hấp",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec68d"
+  },
+  "ID_bacSi": "bs_51",
+  "hoTen": "Trần Thị Lan",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345728",
+  "email": "ax.tran@example.com",
+  "diaChi": "4848 Nguyễn Văn Cừ, HCM",
+  "ghiChu": "Chuyên cấp cứu nội khoa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec68e"
+  },
+  "ID_bacSi": "bs_52",
+  "hoTen": "Lê Văn Can",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345729",
+  "email": "ay.le@example.com",
+  "diaChi": "4949 Trần Hưng Đạo, HCM",
+  "ghiChu": "Chuyên cấp cứu ngoại khoa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec68f"
+  },
+  "ID_bacSi": "bs_53",
+  "hoTen": "Phạm Thị Quỳnh",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345730",
+  "email": "az.pham@example.com",
+  "diaChi": "5050 Bến Thành, HCM",
+  "ghiChu": "Chuyên cấp cứu sản khoa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec690"
+  },
+  "ID_bacSi": "bs_54",
+  "hoTen": "Nguyễn Văn Đạt",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345731",
+  "email": "ba.nguyen@example.com",
+  "diaChi": "5151 Trường Chinh, HCM",
+  "ghiChu": "Chuyên cấp cứu nhi khoa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec691"
+  },
+  "ID_bacSi": "bs_55",
+  "hoTen": "Trần Thị Dung",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345732",
+  "email": "bb.tran@example.com",
+  "diaChi": "5252 Lê Quý Đôn, HCM",
+  "ghiChu": "Chuyên cấp cứu tâm thần",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec692"
+  },
+  "ID_bacSi": "bs_56",
+  "hoTen": "Lê Văn Toàn",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345733",
+  "email": "bc.le@example.com",
+  "diaChi": "5353 Nguyễn Thái Bình, HCM",
+  "ghiChu": "Chuyên cấp cứu tiêu hóa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec693"
+  },
+  "ID_bacSi": "bs_57",
+  "hoTen": "Phạm Thị Bách Dung",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345734",
+  "email": "bd.pham@example.com",
+  "diaChi": "5454 Huỳnh Thúc Kháng, HCM",
+  "ghiChu": "Chuyên cấp cứu thận",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec694"
+  },
+  "ID_bacSi": "bs_58",
+  "hoTen": "Nguyễn Văn Toàn",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345735",
+  "email": "be.nguyen@example.com",
+  "diaChi": "5555 Lê Văn Sỹ, HCM",
+  "ghiChu": "Chuyên cấp cứu mắt",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec695"
+  },
+  "ID_bacSi": "bs_59",
+  "hoTen": "Trần Thị Quỳnh",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345736",
+  "email": "bf.tran@example.com",
+  "diaChi": "5656 Nguyễn Hữu Cảnh, HCM",
+  "ghiChu": "Chuyên cấp cứu tai mũi họng",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec696"
+  },
+  "ID_bacSi": "bs_60",
+  "hoTen": "Lê Văn Giang",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345737",
+  "email": "bg.le@example.com",
+  "diaChi": "5757 Trần Quốc Toản, HCM",
+  "ghiChu": "Chuyên cấp cứu ung thư",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec697"
+  },
+  "ID_bacSi": "bs_61",
+  "hoTen": "Phạm Thị Hạnh",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345738",
+  "email": "bh.pham@example.com",
+  "diaChi": "5858 Lê Lợi, HCM",
+  "ghiChu": "Chuyên cấp cứu bệnh lý khác",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750996987fc2ee5ae4ec698"
+  },
+  "ID_bacSi": "bs_62",
+  "hoTen": "Nguyễn Văn Nghĩa",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345739",
+  "email": "bi.nguyen@example.com",
+  "diaChi": "5959 Trường Sa, HCM",
+  "ghiChu": "Chuyên cấp cứu tổng quát",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750999087fc2ee5ae4ec699"
+  },
+  "ID_bacSi": "bs_63",
+  "hoTen": "Nguyễn Văn Phúc",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345740",
+  "email": "bj.nguyen@example.com",
+  "diaChi": "6060 Trần Hưng Đạo, HCM",
+  "ghiChu": "Chuyên cấp cứu bệnh lý hô hấp",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750999087fc2ee5ae4ec69a"
+  },
+  "ID_bacSi": "bs_64",
+  "hoTen": "Trần Thị Phúc",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345741",
+  "email": "bk.tran@example.com",
+  "diaChi": "6161 Lê Văn Sỹ, HCM",
+  "ghiChu": "Chuyên cấp cứu bệnh lý tim mạch",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750999087fc2ee5ae4ec69b"
+  },
+  "ID_bacSi": "bs_65",
+  "hoTen": "Lê Văn Bảo Long",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345742",
+  "email": "bl.le@example.com",
+  "diaChi": "6262 Nguyễn Huệ, HCM",
+  "ghiChu": "Chuyên cấp cứu chấn thương",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750a30687fc2ee5ae4ec6a3"
+  },
+  "ID_bacSi": "bs_66",
+  "hoTen": "Nguyễn Văn Bảo",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nam",
+  "SDT": "0912345743",
+  "email": "bm.nguyen@example.com",
+  "diaChi": "6363 Đinh Tiên Hoàng, HCM",
+  "ghiChu": "Chuyên cấp cứu bệnh lý tiêu hóa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+},
+{
+  "_id": {
+    "$oid": "6750a30687fc2ee5ae4ec6a4"
+  },
+  "ID_bacSi": "bs_67",
+  "hoTen": "Trần Thị Bích Như",
+  "ID_chuyenKhoa": "capCuu_01",
+  "gioiTinh": "Nữ",
+  "SDT": "0912345744",
+  "email": "bn.tran@example.com",
+  "diaChi": "6464 Nguyễn Thái Bình, HCM",
+  "ghiChu": "Chuyên cấp cứu bệnh lý nội khoa",
+  "chiTieu": 30,
+  "ngayDaLam": 26
+}]

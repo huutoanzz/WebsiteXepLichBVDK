@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "671b31c014bb399470058adf"
+  },
+  "ID_chuyenKhoa": "noi_01",
+  "tenChuyenKhoa": "Nội",
+  "ghiChu": "Chuyên về các bệnh nội khoa"
+},
+{
+  "_id": {
+    "$oid": "671b31c014bb399470058ae0"
+  },
+  "ID_chuyenKhoa": "ngoai_01",
+  "tenChuyenKhoa": "Ngoại",
+  "ghiChu": "Chuyên về các bệnh ngoại khoa"
+},
+{
+  "_id": {
+    "$oid": "671b31c014bb399470058ae1"
+  },
+  "ID_chuyenKhoa": "tim_01",
+  "tenChuyenKhoa": "Tim mạch",
+  "ghiChu": "Chuyên về các bệnh tim mạch"
+},
+{
+  "_id": {
+    "$oid": "671b31c014bb399470058ae2"
+  },
+  "ID_chuyenKhoa": "capCuu_01",
+  "tenChuyenKhoa": "Cấp cứu",
+  "ghiChu": "Chuyên về các tình huống cấp cứu"
+}]

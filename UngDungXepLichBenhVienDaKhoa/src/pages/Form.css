@@ -1,0 +1,87 @@
+/* DoctorList.css */
+
+/* Cải thiện giao diện DataTable */
+.p-datatable-custom .p-datatable-thead > tr > th {
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: bold;
+}
+  
+.p-datatable-custom .p-datatable-tbody > tr:hover {
+    background-color: #f9f9f9;
+}
+
+/* Cải thiện giao diện Dialog */
+.p-dialog-custom {
+    width: 40rem;
+    max-width: 90vw;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    background-color: #fff;
+}
+
+.p-dialog-custom .p-dialog-header {
+    background-color: #3498db;
+    color: #fff;
+    border-bottom: 2px solid #2980b9;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    width: 100%; /* Header tràn đầy */
+}
+
+.p-dialog-custom .p-dialog-footer {
+    padding: 1rem;
+    text-align: right;
+}
+
+.p-inputtext-custom {
+    width: 100%;
+    border-radius: 0.25rem;
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+}
+
+.p-dialog-delete {
+    width: 30rem;
+    max-width: 80vw;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    background-color: #fff;
+}
+
+.p-dialog-delete .p-dialog-header {
+    background-color: #e74c3c;
+    color: #fff;
+    border-bottom: 2px solid #c0392b;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    width: 100%; /* Header tràn đầy */
+}
+
+.p-dialog-delete .p-dialog-footer {
+    padding: 1rem;
+    text-align: right;
+}
+
+.p-dialog-delete .p-dialog-footer .p-button {
+    margin-left: 0.5rem;
+}
+
+
+.p-dialog-footer .p-button {
+    margin-left: 0.5rem;
+}
+
+.custom-time-picker {
+    width: 100%;
+    max-width: 250px; /* Điều chỉnh kích thước tối đa */
+    border: 1px solid #ccc; /* Viền */
+    border-radius: 8px; /* Bo góc */
+    padding: 8px; /* Khoảng cách bên trong */
+    font-size: 16px; /* Kích thước chữ */
+  }
+  

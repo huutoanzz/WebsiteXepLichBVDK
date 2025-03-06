@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "671b4cd514bb399470058b0b"
+  },
+  "ID_caTruc": "caS_01",
+  "tenCa": "Ca Sáng",
+  "gioBD": "06:00",
+  "gioKT": "14:00"
+},
+{
+  "_id": {
+    "$oid": "671b4cd514bb399470058b0c"
+  },
+  "ID_caTruc": "caC_02",
+  "tenCa": "Ca Chiều",
+  "gioBD": "14:00",
+  "gioKT": "22:00"
+},
+{
+  "_id": {
+    "$oid": "671b4cd514bb399470058b0d"
+  },
+  "ID_caTruc": "caD_03",
+  "tenCa": "Ca Đêm",
+  "gioBD": "22:00",
+  "gioKT": "06:00"
+},
+{
+  "_id": {
+    "$oid": "671b4cd514bb399470058b0e"
+  },
+  "ID_caTruc": "caHC_04",
+  "tenCa": "Ca Hành Chính",
+  "gioBD": "07:30",
+  "gioKT": "17:00"
+}]

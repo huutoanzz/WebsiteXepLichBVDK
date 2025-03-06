@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "673cca7fa66f7885c365a4b7"
+  },
+  "ID_bacSi": "bs_02",
+  "ngayNghi": {
+    "$date": "2024-11-01T17:00:00.000Z"
+  },
+  "lyDo": "Nghỉ phép công tác",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "673cca8da66f7885c365a4b8"
+  },
+  "ID_bacSi": "bs_03",
+  "ngayNghi": {
+    "$date": "2024-11-12T17:00:00.000Z"
+  },
+  "lyDo": "Bệnh",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "673ccaa1a66f7885c365a4b9"
+  },
+  "ID_bacSi": "bs_06",
+  "ngayNghi": {
+    "$date": "2024-11-20T17:00:00.000Z"
+  },
+  "lyDo": "Công tác",
+  "trangThai": 0
+},
+{
+  "_id": {
+    "$oid": "674adf325226597e1ea8ab78"
+  },
+  "ID_bacSi": "bs_01",
+  "ngayNghi": {
+    "$date": "2024-10-31T17:00:00.000Z"
+  },
+  "lyDo": "Nghỉ phép cá nhân",
+  "trangThai": 0
+},
+{
+  "_id": {
+    "$oid": "674aee619978e08161c814a1"
+  },
+  "ID_bacSi": "bs_01",
+  "ngayNghi": {
+    "$date": "2025-12-13T17:00:00.000Z"
+  },
+  "lyDo": "Thích",
+  "trangThai": true
+}]

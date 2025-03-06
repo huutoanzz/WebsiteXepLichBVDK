@@ -1,0 +1,13 @@
+
+.sidebar {
+    transition: width 0.3s ease; /* Hiệu ứng chuyển đổi khi sidebar thay đổi kích thước */
+  }
+  
+  .sidebar i {
+    font-size: 1.5rem; /* Kích thước biểu tượng */
+  }
+  
+  .sidebar span {
+    display: inline-block; /* Đảm bảo văn bản được căn chỉnh với biểu tượng */
+  }
+  
