@@ -39,6 +39,7 @@ Số lượng thành viên: 03
   - `/Controllers`: Chứa các controller để xử lý API.
   - `/Models`: Chứa các model dữ liệu.
   - `/Repositories`: Chứa các logic nghiệp vụ liên quan đến database.
+  - `/Interfaces`: Chứa các interface để định nghĩa
 
 ## 📈 Hướng dẫn cài đặt và chạy dự án
 ### Yêu cầu:
@@ -49,7 +50,7 @@ Số lượng thành viên: 03
 ### Cài đặt Front-end:
 1. Clone repository.
 2. Điều hướng đến thư mục Front-end:
-   cd /path-to-frontend
+   cd /UngDungXepLichBenhVienDaKhoa
 3. Cài đặt dependencies:
   npm install
 4. Chạy ứng dụng:
@@ -58,7 +59,9 @@ Số lượng thành viên: 03
 ### Cài đặt Back-end:
 1. Clone repository.
 2. Điều hướng đến thư mục Backend-end:
-   cd /path-to-frontend
+   cd / BVDK_API_backend
 3. Chạy ứng dụng:
-  Nhấn chạy hoặc dùng lệnh dotnet watch run
+  Nhấn chạy hoặc dùng lệnh
+    cd BVĐK_API
+    dotnet watch run
 
