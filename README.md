@@ -7,7 +7,7 @@ Website Quản Lý Lịch Trực Bệnh Viện Đa Khoa là một giải pháp q
 Link GitHub Repository: [WebsiteXepLichBVDK](https://github.com/huutoanzz/WebsiteXepLichBVDK)
 
 ## 👥 Thành viên nhóm
-Số lượng thành viên: 03
+Số lượng thành viên: **03**
 
 ## 🛠 Công nghệ sử dụng
 - **Front-end**: React TypeScript
