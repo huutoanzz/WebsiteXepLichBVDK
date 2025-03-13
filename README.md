@@ -3,16 +3,20 @@
 ## 📋 Mô tả dự án
 Website Quản Lý Lịch Trực Bệnh Viện Đa Khoa là một giải pháp quản lý toàn diện cho lịch trực của bệnh viện. Dự án cung cấp các chức năng tối ưu hóa việc sắp xếp lịch trực, quản lý thông tin bác sĩ, phòng ban, chuyên khoa và nhiều tính năng hữu ích khác nhằm hỗ trợ quy trình làm việc hiệu quả trong môi trường bệnh viện.
 
-## 🚀 Demo
-Link GitHub Repository: [WebsiteXepLichBVDK](https://github.com/huutoanzz/WebsiteXepLichBVDK)
-
 ## 👥 Thành viên nhóm
-Số lượng thành viên: 03
+Số lượng thành viên: **03**
 
 ## 🛠 Công nghệ sử dụng
-- **Front-end**: React TypeScript
-- **Back-end**: .NET Webcore API
-- **Database**: MongoDB
+- **Front-end**:  
+  - **Ngôn ngữ:** React TypeScript  
+  - **Frameworks/Thư viện:** Tailwind CSS, PrimeReact, React Router DOM, Axios  
+  - **Các công cụ UI hỗ trợ:** FontAwesome, PrimeIcons  
+
+- **Back-end**:  
+  - **Ngôn ngữ:** .NET Webcore API  
+  - **Thư viện chính:** EPPlus (xuất file Excel), MongoDB.Driver (kết nối với MongoDB), Swashbuckle.AspNetCore (Swagger tài liệu hóa API)  
+
+- **Database**: MongoDB  
 
 ## ✨ Các chức năng chính
 - **CRUD**:

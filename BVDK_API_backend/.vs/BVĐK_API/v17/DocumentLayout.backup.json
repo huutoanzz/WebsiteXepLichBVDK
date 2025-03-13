@@ -78,7 +78,8 @@
               "RelativeToolTip": "BV\u0110K_API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-06T07:59:03.276Z"
+              "WhenOpened": "2025-03-06T07:59:03.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,7 +91,8 @@
               "RelativeToolTip": "BV\u0110K_API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-06T07:59:01.471Z"
+              "WhenOpened": "2025-03-06T07:59:01.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +104,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\NgayNghiPhepController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:16:24.459Z"
+              "WhenOpened": "2024-12-12T13:16:24.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,7 +117,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\ScheduleController.cs",
               "ViewState": "AgIAAP8CAAAAAAAAAAAAwCgDAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:27:59.945Z"
+              "WhenOpened": "2024-12-01T16:27:59.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +128,7 @@
               "RelativeDocumentMoniker": "BV\u0110K_API\\Program.cs",
               "ToolTip": "D:\\DOAN\\WebsiteXepLichBVDK\\BVDK_API_backend\\BV\u0110K_API\\Program.cs",
               "RelativeToolTip": "BV\u0110K_API\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T15:44:41.013Z",
               "EditorCaption": ""
@@ -139,7 +143,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\NgayNghiLeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:45:26.813Z"
+              "WhenOpened": "2024-12-12T13:45:26.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -151,7 +156,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\ShiftController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:27:59.338Z"
+              "WhenOpened": "2024-12-01T16:27:59.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,7 +169,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Repositories\\ClinicRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:36:27.131Z"
+              "WhenOpened": "2024-11-30T17:36:27.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -175,7 +182,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:46:41.497Z"
+              "WhenOpened": "2024-11-30T15:46:41.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -187,7 +195,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\BackupAndRestoreController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:45:56.825Z"
+              "WhenOpened": "2024-11-30T15:45:56.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -199,7 +208,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Repositories\\BackupRestoreRepository.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAIwEIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:43:12.799Z"
+              "WhenOpened": "2024-11-30T15:43:12.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -211,7 +221,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Interfaces\\IBackupRestoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:42:37.3Z"
+              "WhenOpened": "2024-11-30T15:42:37.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -223,7 +234,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\ClinicController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:48:03.692Z"
+              "WhenOpened": "2024-11-30T15:48:03.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -235,7 +247,8 @@
               "RelativeToolTip": "BV\u0110K_API\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:48:13.204Z"
+              "WhenOpened": "2024-11-30T15:48:13.204Z",
+              "EditorCaption": ""
             }
           ]
         }

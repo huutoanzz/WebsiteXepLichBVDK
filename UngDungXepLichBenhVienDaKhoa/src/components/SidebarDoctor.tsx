@@ -11,7 +11,7 @@ import {
   faCalendarDay,
 } from '@fortawesome/free-solid-svg-icons';
 import { useContext } from 'react';
-import { UserContext } from '/DOAN/UngDungXepLichBenhVienDaKhoa/src/contexts/UserContext';
+import { UserContext } from '../contexts/UserContext';
 
 interface SidebarProps {
   isOpen: boolean;

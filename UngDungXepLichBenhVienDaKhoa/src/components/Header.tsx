@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import { useContext, useState } from 'react';
-import { UserContext } from '/DOAN/UngDungXepLichBenhVienDaKhoa/src/contexts/UserContext';
+import { UserContext } from '../contexts/UserContext';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserCircle, faDatabase, faUpload } from '@fortawesome/free-solid-svg-icons'; 
 import axios from 'axios';
