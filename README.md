@@ -71,59 +71,47 @@ Số lượng thành viên: **03**
 <<<<<<< HEAD
 ---
 
-## Giao diện & Chức năng
+## 📌 Giao diện & Tính năng
 
-### 🔷 Cơ sở dữ liệu
+### 🗂️ Cơ sở dữ liệu
 ![Database Structure](./images/database_structure.png)
 
-### 🔷 Giao diện Admin và Nhân viên
-![Admin & Staff Dashboard](./images/admin_staff_dashboard.png)
+---
 
-### 🔷 Giao diện Bác sĩ
+### 🧑‍💼 Giao diện Admin và Nhân viên
+![Admin Staff Dashboard](./images/admin_staff_dashboard.png)
+
+---
+
+### 👨‍⚕️ Giao diện Bác sĩ
 ![Doctor Dashboard](./images/doctor_dashboard.png)
 
-### 🔷 Tạo & Xoá lịch trực theo tháng
-> Cho phép xếp lịch trực tự động và xoá lịch trực của tháng đã chọn.
+---
+
+### 🗓️ Tạo & Xoá lịch trực theo tháng
+> Tính năng cho phép chọn tháng/năm để tự động xếp lịch trực hoặc xoá lịch tháng.
 ![Auto Schedule and Delete](./images/auto_schedule_and_delete.png)
 
-### 🔷 Quản lý lịch trực trong ngày
-> Tìm kiếm theo tên bác sĩ, lọc theo ca trực và phòng khám. Có thể thêm, sửa, xoá ca trực trong ngày.
+---
+
+### 📅 Quản lý lịch trực trong ngày
+> Xem chi tiết lịch trực theo ngày, thêm – sửa – xoá theo bác sĩ, ca trực và phòng khám.
 ![Daily Schedule Management](./images/daily_schedule_management.png)
 
-### 🔷 Xem lịch trực theo tuần
+---
+
+### 📆 Xem lịch trực theo tuần
 ![Weekly Schedule View](./images/weekly_schedule_view.png)
 
-### 🔷 Xuất lịch trực
-> Hỗ trợ xuất file Excel theo tháng hoặc tuần.
+---
+
+### 📤 Chức năng xuất lịch trực
+> Hỗ trợ xuất lịch trực ra file Excel theo tháng hoặc tuần.
 ![Export Schedule Feature](./images/export_schedule_feature.png)
 
-### 🔷 Đăng ký lịch nghỉ
-> Chức năng dành cho bác sĩ để đăng ký ngày nghỉ và lý do.
+---
+
+### 📋 Đăng ký lịch nghỉ
+> Dành cho bác sĩ đăng ký ngày nghỉ và ghi chú lý do.
 ![Day Off Registration Feature](./images/day_off_registration_feature.png)
-=======
-   
-## 🗂️ Cấu trúc cơ sở dữ liệu
-
-- **Sơ đồ cơ sở dữ liệu tổng quát:**  
-  ![Database Structure](./screenshots/database_structure.png)
-
-## 🖼️ Giao diện hệ thống
-
-- **Giao diện Admin và Staff:**  
-  ![Admin and Staff Dashboard](./screenshots/admin_staff_dashboard.png)
-
-- **Giao diện Bác sĩ:**  
-  ![Doctor Dashboard](./screenshots/doctor_dashboard.png)
-
-- **Chức năng quản lý lịch trực:**  
-  ![Schedule Management Feature](./screenshots/schedule_management_feature.png)
-
-- **Lịch trực theo tuần:**  
-  ![Weekly Schedule View](./screenshots/weekly_schedule_view.png)
-
-- **Chức năng xuất lịch trực:**  
-  ![Export Schedule Feature](./screenshots/export_schedule_feature.png)
-
-- **Chức năng đăng ký lịch nghỉ:**  
-  ![Day-Off Registration Feature](./screenshots/day_off_registration_feature.png)
 
