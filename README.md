@@ -79,9 +79,6 @@ Số lượng thành viên: **03**
 - **Giao diện Admin và Staff:**  
   ![Admin and Staff Dashboard](./screenshots/admin_staff_dashboard.png)
 
-- **Giao diện Admin và Staff:**  
-  ![Admin and Staff Dashboard](./screenshots/admin_staff_dashboard.png)
-
 - **Giao diện Bác sĩ:**  
   ![Doctor Dashboard](./screenshots/doctor_dashboard.png)
 
