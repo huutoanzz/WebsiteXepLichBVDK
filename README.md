@@ -73,11 +73,6 @@ Số lượng thành viên: **03**
 
 ## 📌 Giao diện & Tính năng
 
-### 🗂️ Cơ sở dữ liệu
-![Database Structure](./screenshots/database_structure.png)
-
----
-
 ### 🧑‍💼 Giao diện Admin 
 ![Admin and Staff Dashboard](./screenshots/admin_staff_dashboard.png)
 
