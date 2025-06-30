@@ -78,7 +78,7 @@ Số lượng thành viên: **03**
 
 ---
 
-### 🧑‍💼 Giao diện Admin và Nhân viên
+### 🧑‍💼 Giao diện Admin 
 ![Admin and Staff Dashboard](./screenshots/admin_staff_dashboard.png)
 
 ---
