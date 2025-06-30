@@ -68,6 +68,7 @@ Số lượng thành viên: **03**
   Nhấn chạy hoặc dùng lệnh
     cd BVĐK_API
     dotnet watch run
+<<<<<<< HEAD
 ---
 
 ## Giao diện & Chức năng
@@ -99,4 +100,30 @@ Số lượng thành viên: **03**
 ### 🔷 Đăng ký lịch nghỉ
 > Chức năng dành cho bác sĩ để đăng ký ngày nghỉ và lý do.
 ![Day Off Registration Feature](./images/day_off_registration_feature.png)
+=======
+   
+## 🗂️ Cấu trúc cơ sở dữ liệu
+
+- **Sơ đồ cơ sở dữ liệu tổng quát:**  
+  ![Database Structure](./screenshots/database_structure.png)
+
+## 🖼️ Giao diện hệ thống
+
+- **Giao diện Admin và Staff:**  
+  ![Admin and Staff Dashboard](./screenshots/admin_staff_dashboard.png)
+
+- **Giao diện Bác sĩ:**  
+  ![Doctor Dashboard](./screenshots/doctor_dashboard.png)
+
+- **Chức năng quản lý lịch trực:**  
+  ![Schedule Management Feature](./screenshots/schedule_management_feature.png)
+
+- **Lịch trực theo tuần:**  
+  ![Weekly Schedule View](./screenshots/weekly_schedule_view.png)
+
+- **Chức năng xuất lịch trực:**  
+  ![Export Schedule Feature](./screenshots/export_schedule_feature.png)
+
+- **Chức năng đăng ký lịch nghỉ:**  
+  ![Day-Off Registration Feature](./screenshots/day_off_registration_feature.png)
 
