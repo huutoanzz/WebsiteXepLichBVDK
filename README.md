@@ -68,4 +68,35 @@ Số lượng thành viên: **03**
   Nhấn chạy hoặc dùng lệnh
     cd BVĐK_API
     dotnet watch run
+---
+
+## Giao diện & Chức năng
+
+### 🔷 Cơ sở dữ liệu
+![Database Structure](./images/database_structure.png)
+
+### 🔷 Giao diện Admin và Nhân viên
+![Admin & Staff Dashboard](./images/admin_staff_dashboard.png)
+
+### 🔷 Giao diện Bác sĩ
+![Doctor Dashboard](./images/doctor_dashboard.png)
+
+### 🔷 Tạo & Xoá lịch trực theo tháng
+> Cho phép xếp lịch trực tự động và xoá lịch trực của tháng đã chọn.
+![Auto Schedule and Delete](./images/auto_schedule_and_delete.png)
+
+### 🔷 Quản lý lịch trực trong ngày
+> Tìm kiếm theo tên bác sĩ, lọc theo ca trực và phòng khám. Có thể thêm, sửa, xoá ca trực trong ngày.
+![Daily Schedule Management](./images/daily_schedule_management.png)
+
+### 🔷 Xem lịch trực theo tuần
+![Weekly Schedule View](./images/weekly_schedule_view.png)
+
+### 🔷 Xuất lịch trực
+> Hỗ trợ xuất file Excel theo tháng hoặc tuần.
+![Export Schedule Feature](./images/export_schedule_feature.png)
+
+### 🔷 Đăng ký lịch nghỉ
+> Chức năng dành cho bác sĩ để đăng ký ngày nghỉ và lý do.
+![Day Off Registration Feature](./images/day_off_registration_feature.png)
 
