@@ -68,7 +68,7 @@ Số lượng thành viên: **03**
   Nhấn chạy hoặc dùng lệnh
     cd BVĐK_API
     dotnet watch run
-<<<<<<< HEAD
+
 ---
 
 ## 📌 Giao diện & Tính năng
